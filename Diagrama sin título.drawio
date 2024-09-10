@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="Página-1" id="cZ_oidT2PhbgGxclhShy">
-    <mxGraphModel dx="2294" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Xw9fytFi5pSH40kkFStW-1" value="Clientes" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-740" width="250" height="180" as="geometry" />
+          <mxGeometry x="-790" y="40" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Xw9fytFi5pSH40kkFStW-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Xw9fytFi5pSH40kkFStW-1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xw9fytFi5pSH40kkFStW-17" value="Espacios" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" width="300" height="150" as="geometry" />
+          <mxGeometry x="-470" y="40" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Xw9fytFi5pSH40kkFStW-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Xw9fytFi5pSH40kkFStW-17">
           <mxGeometry y="30" width="300" height="30" as="geometry" />
@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xw9fytFi5pSH40kkFStW-30" value="Eventos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="250" width="260" height="120" as="geometry" />
+          <mxGeometry x="-430" y="300" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Xw9fytFi5pSH40kkFStW-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Xw9fytFi5pSH40kkFStW-30">
           <mxGeometry y="30" width="260" height="30" as="geometry" />
@@ -355,7 +355,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xw9fytFi5pSH40kkFStW-83" value="Pagos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="500" width="320" height="210" as="geometry" />
+          <mxGeometry x="-450" y="460" width="320" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Xw9fytFi5pSH40kkFStW-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Xw9fytFi5pSH40kkFStW-83">
           <mxGeometry y="30" width="320" height="30" as="geometry" />
