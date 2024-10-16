@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="UzFf48-_ixGEj29PiuRg">
-    <mxGraphModel dx="1365" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="1457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="uUVCNQHS8sP5bxzguqOR-8" value="Seremonial y protocolo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uUVCNQHS8sP5bxzguqOR-9" value="Realiza evento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uUVCNQHS8sP5bxzguqOR-9" value="solicita evento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uUVCNQHS8sP5bxzguqOR-19" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="uUVCNQHS8sP5bxzguqOR-9" target="uUVCNQHS8sP5bxzguqOR-4" edge="1">
@@ -31,7 +31,7 @@
             <mxPoint x="210" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uUVCNQHS8sP5bxzguqOR-20" value="Se identifica" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="uUVCNQHS8sP5bxzguqOR-20" value="inicia secion" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uUVCNQHS8sP5bxzguqOR-21" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" source="uUVCNQHS8sP5bxzguqOR-22" target="uUVCNQHS8sP5bxzguqOR-20" edge="1">
