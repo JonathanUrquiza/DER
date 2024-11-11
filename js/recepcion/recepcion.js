@@ -1,1 +1,0 @@
-alert("Bienvenido a la prueba demo como super administradio, con este perfik tendra acceso a todas las secciones del sitio")
