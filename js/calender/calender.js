@@ -45,6 +45,8 @@ generateCalendar = (month, year) => {
             }
         }
         calendar_days.appendChild(day)
+        //console.log(day);
+        
     }
 }
 
@@ -59,6 +61,8 @@ month_names.forEach((e, index) => {
         generateCalendar(index, curr_year.value)
     }
     month_list.appendChild(month)
+    console.log(month);
+    
 })
 
 let month_picker = calendar.querySelector('#month-picker')
