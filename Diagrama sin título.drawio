@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="bfe91b75-5d2c-26a0-9c1d-138518896778">
-    <mxGraphModel dx="1365" dy="-231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="464" dy="-640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="385" y="2030" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="CtyxVkOZqIEH-aH8Qfnn-35" value="Internet" style="html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#6881B3;rounded=0;shadow=0;comic=0;align=center;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1820" width="160" height="75.41" as="geometry" />
+          <mxGeometry x="70" y="1810" width="160" height="75.41" as="geometry" />
         </mxCell>
         <mxCell id="CtyxVkOZqIEH-aH8Qfnn-42" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.754;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="CtyxVkOZqIEH-aH8Qfnn-34" target="CtyxVkOZqIEH-aH8Qfnn-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -144,8 +144,8 @@
         <mxCell id="CtyxVkOZqIEH-aH8Qfnn-68" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="CtyxVkOZqIEH-aH8Qfnn-35" target="CtyxVkOZqIEH-aH8Qfnn-151">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="1920" />
-              <mxPoint x="260" y="1981" />
+              <mxPoint x="130" y="1920" />
+              <mxPoint x="130" y="1984" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -344,10 +344,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CtyxVkOZqIEH-aH8Qfnn-151" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;rounded=0;shadow=0;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="1975" width="30" height="15" as="geometry" />
+          <mxGeometry x="160" y="1976.15" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="CtyxVkOZqIEH-aH8Qfnn-152" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.219;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="CtyxVkOZqIEH-aH8Qfnn-151" target="CtyxVkOZqIEH-aH8Qfnn-67">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CtyxVkOZqIEH-aH8Qfnn-154" value="Conexión&#xa;26.171.107.137" style="text;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1885.41" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
